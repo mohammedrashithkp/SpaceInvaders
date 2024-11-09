@@ -24,14 +24,16 @@ Space Invaders is a classic arcade-style shooter game developed in Python using 
    ```bash
    git clone https://github.com/mohammedrashithkp/SpaceInvaders.git &&
    cd SpaceInvaders 
+   ```
+2. **Install the required dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run the game:**
+   ```bash
+   python spaceInvaders.py
+   ```
 
-2. **Setup Python and Virtual Environment:**
-   ```bash
-   source gamenv/bin/activate 
-  
-3. **Run the Game:**
-   ```bash
-   gamenv/bin/python3 main.py
 
 ## How to Play
 - Use the **Arrow keys** to move your spaceship up, down, left, and right.
